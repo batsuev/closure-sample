@@ -1,0 +1,5 @@
+Sample JavaScript project for Google Closure.
+
+build.sh - build src to out/sample.js and check all src files.
+src/samplePackageUsage.js - some errors samples.
+out - compiled javascript.
